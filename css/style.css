@@ -1,8 +1,18 @@
-*{
+:root{
+    --background-primary-collor: #FFFFFF;
+    --background-secondary-collor: #f5f5f5;
+    --background-tertiary-collor: #0000;
+
+    --button-primary-collor: #8F0101;
+    --button-secundary-collor: #B81515;
+
+    --text-primary-collor: #222222;
+    --text-secondary-collor: #FFFFFF;
+}
+
 /* CSS RESET */
 body, img, h1, p, fieldset, legend, label, input, select, textarea, button {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
 }
